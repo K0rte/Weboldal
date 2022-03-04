@@ -1,0 +1,13 @@
+.header {
+    background-color: #5C6E58;
+    height: 85px;
+}
+.header h1 {
+    color: #F2D349;
+    position: relative;
+    top: 18px;
+    
+}
+.header img {
+    float: left;
+}
