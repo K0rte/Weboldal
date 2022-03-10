@@ -1,13 +1,11 @@
-.header {
-    background-color: #5C6E58;
-    height: 85px;
+#title {
+  color: #F2D349
 }
-.header h1 {
-    color: #F2D349;
-    position: relative;
-    top: 18px;
-    
+
+.nav-link {
+  color: #FFFFFF;
 }
-.header img {
-    float: left;
+
+.blank {
+  float: right;
 }
