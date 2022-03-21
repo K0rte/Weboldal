@@ -116,7 +116,7 @@ body {
 }
 
 #bottom {
-  margin-left: 150px;
+  margin-left: 250px;
   margin-top: 50px;
   background-color: rgba(255, 255, 255, 0.5);
 }
@@ -133,10 +133,12 @@ body {
   margin-top: 15px;
   font-size: 18px;
   margin-bottom: 0px;
+  color: black;
 }
 
 .icon {
   margin-top: 2px;
+  padding-left: 12px;
 }
 
 .prices {
@@ -160,4 +162,8 @@ body {
 .recs{
   box-shadow: 1px 1px 1px 1px black;
   width:
+}
+
+.Lithium{
+  color: black;
 }
