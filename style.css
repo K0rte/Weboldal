@@ -9,3 +9,150 @@
 .blank {
   float: right;
 }
+
+#feature {
+  width: 761px;
+  float: left;
+  margin-left: 7em;
+  margin-top: 3em;
+}
+
+#fort {
+  font-size: 2em;
+}
+
+#fortnite {
+  background-color: #F2D349;
+  width: 761px
+}
+
+#recom {
+  font-size: 25px;
+}
+
+p {
+  text-shadow: 1px 1px 1px black;
+}
+
+#price {
+  font-size: 30px;
+}
+
+.btn {
+  color: #F2D349;
+  background-color: black;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.fortnut {
+  margin-left: 30px;
+  margin-top: 15px;
+}
+
+#detail {
+  margin-bottom: 25px;
+  margin-right: 50px;
+}
+
+#recborder {
+  border: solid 4px black;
+  width: 768px;
+}
+
+#special {
+  margin-left: 1200px;
+  margin-top: 50px;
+}
+
+#specoff {
+  font-size: 25px;
+}
+
+.special {
+  width: 435px;
+  background-color: #F2D349;
+}
+
+.sale {
+  margin-left: 15px;
+  margin-top: 5px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#specbord1 {
+  border: solid 4px black;
+  width: 440px
+}
+
+#specbord2 {
+  border: solid 4px black;
+  width: 441px;
+  margin-top: 50px;
+}
+
+.percent {
+  background-color: #5C6E58;
+  color: white;
+  font-size: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.price {
+  background-color: black;
+  color: #F2D349;
+  margin-right: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 20px;
+}
+
+.botlane {
+  font-size: 25px;
+}
+
+#bottom {
+  margin-left: 150px;
+  margin-top: 50px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.recs {
+  background-color: #F2D349;
+  width: 1000px;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.titles {
+  margin-left: 15px;
+  margin-top: 15px;
+  font-size: 18px;
+  margin-bottom: 0px;
+}
+
+.icon {
+  margin-top: 2px;
+}
+
+.prices {
+  margin-left: 300px;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.genres {
+  margin-left: 15px;
+  color: rgba(0, 0, 0, 0.1);
+  font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 4px;
+}
+
+#hadesprice {
+  margin-left: 380px;
+}
